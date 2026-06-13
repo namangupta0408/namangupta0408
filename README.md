@@ -1,4 +1,4 @@
-# Hi, I'm Naman Gupta 👋
+# Hi, I'm Naman Gupta
 
 Production & Industrial Engineering @ IIT Delhi
 
